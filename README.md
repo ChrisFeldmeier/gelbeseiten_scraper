@@ -355,10 +355,6 @@ Bei Fragen oder Problemen, prüfe zuerst:
 - **v2.0** - Verbesserte E-Mail-Extraktion aus Chat-Daten
 - **v1.0** - Basis-Scraper mit Pagination
 
-## 👨‍💻 Autor
-
-Erstellt mit Claude Sonnet 4.5 🤖
-
 ---
 
 ## 🚀 Quick Start
@@ -368,7 +364,6 @@ Erstellt mit Claude Sonnet 4.5 🤖
 pip3 install requests beautifulsoup4
 
 # Scraper starten
-cd /Users/chris/Documents/apps/gelbeseiten
 python3 gelbeseiten_scraper.py
 
 # Eingaben:
